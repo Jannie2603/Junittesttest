@@ -36,6 +36,7 @@ public class RegnemaskineTest {
     @Parameterized.Parameters
     public static Collection<Object[]> data() {
 
+        return null;
     }
 
     @Test

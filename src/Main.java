@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println(minRegn.lægsammen(2,6));
 
-
+        System.out.println(minRegn.årstal);
 
 
     }
